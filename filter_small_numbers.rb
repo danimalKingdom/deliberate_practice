@@ -22,3 +22,9 @@ p filtered_numbers
 
 #reflection
 #trouble knowing where to start. memorizing loop syntax. improve function performance.
+
+#more problems
+#erase all even numbers less than 10
+#increase all numbers in an array by 3 => do without a each loop
+#user inputs numbers, filter number less than 15
+#make a hash with a random word as the key and the number (from original array) as the value
